@@ -1,4 +1,4 @@
-This Memorize Game using Kotlin and Jetpack Compose 
+This Memorize Game using Swift
 
 
 developed by 
